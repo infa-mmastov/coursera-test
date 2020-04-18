@@ -1,0 +1,40 @@
+.navbar-brand {
+  padding-top: 25px;
+  
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  /*text-transform: uppercase;*/
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 3px;
+  /*line-height: .75;*/
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.bg_Aqua {
+	background-color: Aqua;
+}
+.bg_LightGreen {
+	background-color: LightGreen;
+}
+.bg_Gray {
+	background-color: LightGray;
+}
+.bg_Tomato {
+	background-color: #ff6347;
+}
+.bg_BlanchedAlmond {
+	background-color: BlanchedAlmond;
+}
+
+.icon-bar {
+  border-bottom: 1px solid #61122f;
+}
+.bordered {
+	border: 5px solid #61122f;
+}
